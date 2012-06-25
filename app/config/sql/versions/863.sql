@@ -1,0 +1,1 @@
+ALTER TABLE `nodes` CHANGE COLUMN `running` `running` TINYINT(4) NOT NULL DEFAULT 0 ;

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<plugin>
+    <description>Bromine update plugin, replaces the first auto-updater. More stable and reliable updater.</description>
+    <author>Rasmus Berg Palm and Jeppe Poss</author>
+    <email>rasmus@brominefoundation.org and jeppe@brominefoundation.org</email>
+    <website>http://brominefoundation.org</website>
+</plugin>

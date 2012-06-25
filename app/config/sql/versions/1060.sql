@@ -1,0 +1,1 @@
+ALTER TABLE `suites` ADD `user_id` INT NOT NULL 

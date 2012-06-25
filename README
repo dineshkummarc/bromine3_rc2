@@ -1,0 +1,76 @@
+# Bromine #
+
+Bromine is an open source QA tool that uses selenium RC as its testing engine.
+
+It provides project management, OS/browser specification, test-case creation as
+well as user management.
+
+Its lofty aim is to be the open source alternative to commercial tools (such 
+as HP Quality Center).
+
+Bromine also substantially eases the process of creating, maintaining and 
+running Selenium RC tests. The tests are created with the custom Selenium IDE
+format and uploaded to Bromine. The test can then be run on test machines 
+(we refer to them as nodes) which are configured in Bromine.
+
+Bromine was built using CakePHP (see below for framework details).
+
+## Resources ##
+
+You can find Bromine online at OpenQA.
+
+Homepage: http://www.brominefoundation.org/
+
+Forum: http://forum.brominefoundation.org/
+
+Wiki: http://wiki.openqa.org/display/BR/Home
+
+Bugtracker: http://jira.openqa.org/browse/BR
+
+## Authors ##
+
+Rasmus Berg Palm
+Visti Kløft
+Jeppe Poss Pedersen
+
+
+## What is CakePHP? ##
+
+CakePHP is a rapid development framework for PHP which uses commonly known
+design patterns like Active Record, Association Data Mapping, Front Controller
+and MVC. Our primary goal is to provide a structured framework that enables
+PHP users at all levels to rapidly develop robust web applications, without
+any loss to flexibility.
+
+The Cake Software Foundation - promoting development related to CakePHP
+http://www.cakefoundation.org/
+
+CakePHP - the rapid development PHP framework
+http://www.cakephp.org
+
+Cookbook - user documentation for learning about CakePHP
+http://book.cakephp.org
+
+API - quick reference to CakePHP
+http://api.cakephp.org
+
+The Bakery - everything CakePHP
+http://bakery.cakephp.org
+
+The Show - live and archived podcasts about CakePHP and more
+http://live.cakephp.org
+
+CakePHP Google Group - community mailing list and forum
+http://groups.google.com/group/cake-php
+
+#cakephp on irc.freenode.net - chat with CakePHP developers
+irc://irc.freenode.net/cakephp
+
+CakeForge - open development for CakePHP
+http://cakeforge.org
+
+CakePHP gear
+http://www.cafepress.com/cakefoundation
+
+Recommended Reading
+http://astore.amazon.com/cakesoftwaref-20/

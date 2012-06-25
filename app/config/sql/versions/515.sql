@@ -1,0 +1,1 @@
+ALTER TABLE  `requirements` ADD  `user_id` INT NOT NULL ;

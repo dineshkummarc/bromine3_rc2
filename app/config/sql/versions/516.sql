@@ -1,0 +1,1 @@
+ALTER TABLE  `testcases` ADD  `user_id` INT NOT NULL ;

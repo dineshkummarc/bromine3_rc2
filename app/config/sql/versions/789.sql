@@ -1,0 +1,1 @@
+insert into `menus` (`id`, `parent_id`, `title`, `controller`, `action`, `odr`) values (NULL, '61', 'Scheduled jobs', 'qrtz_job_details', 'index', '7');

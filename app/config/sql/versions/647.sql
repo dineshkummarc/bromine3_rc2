@@ -1,0 +1,1 @@
+INSERT INTO `menus` (`id`, `parent_id`, `title`, `controller`, `action`, `odr`) VALUES (NULL, '61', 'Email Settings', 'configs', 'email', '5');
